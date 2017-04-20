@@ -1,0 +1,43 @@
+<svg height="638" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="638" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-20 17:34:50 +0000   100048 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-20 17:34:50 +0000    14319 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-20 17:34:50 +0000     1572 bytes  Gruntfile.js</tspan>
+<tspan x="10" y="74">  3.  2017-04-20 17:34:50 +0000     1051 bytes  LICENSE</tspan>
+<tspan x="10" y="90">  4.  2017-04-20 17:34:50 +0000     6716 bytes  README.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-20 17:34:50 +0000    10904 bytes  app/index.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-20 17:34:50 +0000     2683 bytes  contributing.md</tspan>
+<tspan x="10" y="138">  7.  2017-04-20 17:34:50 +0000     7354 bytes  docs/FAQ.md</tspan>
+<tspan x="10" y="154">  8.  2017-04-20 17:34:50 +0000      696 bytes  docs/README.md</tspan>
+<tspan x="10" y="170">  9.  2017-04-20 17:34:50 +0000     4038 bytes  docs/android.md</tspan>
+<tspan x="10" y="186"> 10.  2017-04-20 17:34:50 +0000     2771 bytes  docs/app-testing.md</tspan>
+<tspan x="10" y="202"> 11.  2017-04-20 17:34:50 +0000     1795 bytes  docs/getting-started.md</tspan>
+<tspan x="10" y="218"> 12.  2017-04-20 17:34:50 +0000     1356 bytes  package.json</tspan>
+<tspan x="10" y="234"> 13.  2017-04-20 17:34:50 +0000    16403 bytes  templates/common/_Gruntfile.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-20 17:34:50 +0000      277 bytes  templates/common/_bower.json</tspan>
+<tspan x="10" y="266"> 15.  2017-04-20 17:34:50 +0000       53 bytes  templates/common/_bowerrc</tspan>
+<tspan x="10" y="282"> 16.  2017-04-20 17:34:50 +0000      159 bytes  templates/common/_gitignore</tspan>
+<tspan x="10" y="298"> 17.  2017-04-20 17:34:50 +0000     1582 bytes  templates/common/_package.json</tspan>
+<tspan x="10" y="314"> 18.  2017-04-20 17:34:50 +0000      593 bytes  templates/hooks/after_platform_add/install_plugi\</tspan>
+<tspan x="10" y="330">ns.js</tspan>
+<tspan x="10" y="346"> 19.  2017-04-20 17:34:50 +0000      531 bytes  templates/hooks/after_plugin_add/register_plugin\</tspan>
+<tspan x="10" y="362">s.js</tspan>
+<tspan x="10" y="378"> 20.  2017-04-20 17:34:50 +0000      472 bytes  templates/hooks/after_plugin_rm/deregister_plugi\</tspan>
+<tspan x="10" y="394">ns.js</tspan>
+<tspan x="10" y="410"> 21.  2017-04-20 17:34:50 +0000     2677 bytes  templates/hooks/after_prepare/icons_and_splashsc\</tspan>
+<tspan x="10" y="426">reens.js</tspan>
+<tspan x="10" y="442"> 22.  2017-04-20 17:34:50 +0000    16251 bytes  templates/hooks/after_prepare/update_platform_co\</tspan>
+<tspan x="10" y="458">nfig.js</tspan>
+<tspan x="10" y="474"> 23.  2017-04-20 17:34:50 +0000      516 bytes  templates/hooks/before_platform_add/init_directo\</tspan>
+<tspan x="10" y="490">ries.js</tspan>
+<tspan x="10" y="506"> 24.  2017-04-20 17:34:50 +0000       38 bytes  templates/styles/main.css</tspan>
+<tspan x="10" y="522"> 25.  2017-04-20 17:34:50 +0000       35 bytes  templates/styles/main.scss</tspan>
+<tspan x="10" y="538"> 26.  2017-04-20 17:34:50 +0000     1058 bytes  test/test-creation.js</tspan>
+<tspan x="10" y="554"> 27.  2017-04-20 17:34:50 +0000      271 bytes  test/test-load.js</tspan>
+<tspan x="10" y="570"> 28.  2017-04-20 17:34:50 +0000      247 bytes  utils/greeting.js</tspan>
+<tspan x="10" y="586"> 29.  2017-04-20 17:34:50 +0000      861 bytes  utils/index.js</tspan>
+<tspan x="10" y="602"> 30.  2017-04-20 17:34:50 +0000     2449 bytes  utils/plugins.js</tspan>
+<tspan x="10" y="618"> 31.  2017-04-20 17:34:50 +0000      320 bytes  utils/starters.js</tspan>
+</text>
+</svg>
